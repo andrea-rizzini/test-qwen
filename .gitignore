@@ -1,0 +1,12 @@
+# Models (too large for git)
+models/
+
+# llama.cpp build
+llama.cpp/
+
+# Python
+.venv/
+__pycache__/
+
+# Ignore vscode AI rules
+.github/instructions/codacy.instructions.md
